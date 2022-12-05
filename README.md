@@ -2,6 +2,8 @@
 This is the repository for final project of DS-GA 1011: Natural Language Processing with Representation Learning
 ## Replication and Extension of *Hierarchical Multi-head Attentive Network for Evidence-aware Fake News Detection*
 
+![image](https://github.com/Yuer867/Replication-and-Extension-of-MAC/blob/main/framework.jpeg)
+
 ## Usage
 ### 1. Install required packages
 We use Pytorch 1.13.0 and python 3.8.6.
