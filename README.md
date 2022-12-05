@@ -6,7 +6,12 @@ This is the repository for final project of DS-GA 1011: Natural Language Process
 ### 1. Install required packages
 We use Pytorch 1.13.0 and python 3.8.6.
 ```
-pip install -r requirements.txt
+nltk==3.7
+numpy==1.23.5
+scikit_learn==1.1.3
+torch==1.13.0
+tqdm==4.64.1
+transformers==4.24.0
 ```
 ### 2. Data Preprocessing
 1. download pre-trained word embeddings file
