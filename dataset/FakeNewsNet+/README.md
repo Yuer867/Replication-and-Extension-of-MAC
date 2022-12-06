@@ -1,3 +1,3 @@
-We used the methods described in [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) and retrived Google web pages to collect a new dataset **FakeNewsNet+**
+We used the methods described in [FakeNewsNet——modified](https://github.com/SaschaStenger/FakeNewsNet_modified) to collect user comments and retrived Google web pages to intergrate a new dataset **FakeNewsNet+**
 
 Download: [GoogleDrive](https://drive.google.com/drive/folders/1AyQB9jN1Bc7RkSWOVoiZwCgnUXkTXX54?usp=sharing)
